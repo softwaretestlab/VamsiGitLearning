@@ -6,5 +6,6 @@ public class AT01_NavigateToWeb {
     public void Nav(){
         System.out.println("This is test one");
         System.out.println("This is test two");
+        System.out.println("This is test three");
     }
 }
