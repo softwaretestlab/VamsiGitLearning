@@ -9,6 +9,6 @@ public class AT01_NavigateToWeb {
          System.out.println("This is test four");
         System.out.println("This is test three-3");
         System.out.println("This is test five");
-        System.out.println("This is test five");
+        System.out.println("This is test six");
     }
 }
